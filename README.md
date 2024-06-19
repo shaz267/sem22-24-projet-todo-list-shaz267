@@ -1,0 +1,4 @@
+# Marin Bourdon
+
+SUPABASE_URL = 'https://lmkkijvwbdtwyzmnevby.supabase.co'
+SUPABASE_API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxta2tpanZ3YmR0d3l6bW5ldmJ5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTgyMDYxMzAsImV4cCI6MjAzMzc4MjEzMH0.glVvfWKssJPFdMy2PaHpB2BVpfuShG_8VcHpYz6rkGg'
